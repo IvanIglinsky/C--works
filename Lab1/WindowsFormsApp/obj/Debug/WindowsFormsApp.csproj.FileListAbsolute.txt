@@ -1,0 +1,36 @@
+C:\Users\ivanm\Desktop\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+C:\Users\ivanm\Desktop\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+C:\Users\ivanm\Desktop\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+C:\Users\ivanm\Desktop\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.AssemblyReference.cache
+C:\Users\ivanm\Desktop\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivanm\Desktop\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form1.resources
+C:\Users\ivanm\Desktop\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+C:\Users\ivanm\Desktop\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\ivanm\Desktop\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\ivanm\Desktop\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+C:\Users\ivanm\Desktop\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
+C:\Users\ivanm\Desktop\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form2.resources
+C:\Users\ivanm\Desktop\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form3.resources
+C:\Users\ivanm\Desktop\WindowsFormsApp\WindowsFormsApp\bin\Debug\ClassLibrary.dll
+C:\Users\ivanm\Desktop\WindowsFormsApp\WindowsFormsApp\bin\Debug\ClassLibrary.pdb
+C:\Users\ivanm\Desktop\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CopyComplete
+E:\Learn\.NET core Labs\Lab1\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+E:\Learn\.NET core Labs\Lab1\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+E:\Learn\.NET core Labs\Lab1\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+E:\Learn\.NET core Labs\Lab1\WindowsFormsApp\bin\Debug\ClassLibrary.dll
+E:\Learn\.NET core Labs\Lab1\WindowsFormsApp\bin\Debug\ClassLibrary.pdb
+E:\Learn\.NET core Labs\Lab1\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.AssemblyReference.cache
+E:\Learn\.NET core Labs\Lab1\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.SuggestedBindingRedirects.cache
+E:\Learn\.NET core Labs\Lab1\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form1.resources
+E:\Learn\.NET core Labs\Lab1\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form2.resources
+E:\Learn\.NET core Labs\Lab1\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form3.resources
+E:\Learn\.NET core Labs\Lab1\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+E:\Learn\.NET core Labs\Lab1\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+E:\Learn\.NET core Labs\Lab1\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+E:\Learn\.NET core Labs\Lab1\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CopyComplete
+E:\Learn\.NET core Labs\Lab1\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+E:\Learn\.NET core Labs\Lab1\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
+E:\Learn\.NET core Labs\Lab1\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form4.resources
+E:\Learn\.NET core Labs\Lab1\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form5.resources
+E:\Learn\.NET core Labs\Lab1\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form6.resources
+E:\Learn\.NET core Labs\Lab1\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form7.resources
