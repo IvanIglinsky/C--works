@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProcessManagerLib", "ProcessManager\ProcessManagerLib.csproj", "{DC548FFB-AFDE-4D8A-8BA2-1FA7B97E86B6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProcessManagerBib", "ProcessManager\ProcessManagerBib.csproj", "{DC548FFB-AFDE-4D8A-8BA2-1FA7B97E86B6}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Coder", "CoderForm\Coder.csproj", "{C2BBD5F4-2EC0-4613-92EE-30340EFE9B7F}"
 EndProject

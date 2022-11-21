@@ -157,17 +157,17 @@
           }
         }
       },
-      "ProcessManagerLib/1.0.0": {
+      "ProcessManagerBib/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "System.Diagnostics.PerformanceCounter": "7.0.0"
         },
         "compile": {
-          "bin/placeholder/ProcessManagerLib.dll": {}
+          "bin/placeholder/ProcessManagerBib.dll": {}
         },
         "runtime": {
-          "bin/placeholder/ProcessManagerLib.dll": {}
+          "bin/placeholder/ProcessManagerBib.dll": {}
         }
       }
     }
@@ -386,15 +386,15 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "ProcessManagerLib/1.0.0": {
+    "ProcessManagerBib/1.0.0": {
       "type": "project",
-      "path": "../ProcessManager/ProcessManagerLib.csproj",
-      "msbuildProject": "../ProcessManager/ProcessManagerLib.csproj"
+      "path": "../ProcessManager/ProcessManagerBib.csproj",
+      "msbuildProject": "../ProcessManager/ProcessManagerBib.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0-windows7.0": [
-      "ProcessManagerLib >= 1.0.0",
+      "ProcessManagerBib >= 1.0.0",
       "System.Diagnostics.PerformanceCounter >= 7.0.0"
     ]
   },
@@ -425,8 +425,8 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "E:\\Learn\\.NET core Labs\\Lab3\\ProcessManager\\ProcessManagerLib.csproj": {
-              "projectPath": "E:\\Learn\\.NET core Labs\\Lab3\\ProcessManager\\ProcessManagerLib.csproj"
+            "E:\\Learn\\.NET core Labs\\Lab3\\ProcessManager\\ProcessManagerBib.csproj": {
+              "projectPath": "E:\\Learn\\.NET core Labs\\Lab3\\ProcessManager\\ProcessManagerBib.csproj"
             }
           }
         }

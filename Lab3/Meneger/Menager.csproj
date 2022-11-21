@@ -13,7 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ProcessManager\ProcessManagerLib.csproj" />
+    <ProjectReference Include="..\ProcessManager\ProcessManagerBib.csproj" />
   </ItemGroup>
 
   <ItemGroup>

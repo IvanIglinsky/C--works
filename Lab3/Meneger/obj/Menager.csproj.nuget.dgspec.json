@@ -28,8 +28,8 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "E:\\Learn\\.NET core Labs\\Lab3\\ProcessManager\\ProcessManagerLib.csproj": {
-                "projectPath": "E:\\Learn\\.NET core Labs\\Lab3\\ProcessManager\\ProcessManagerLib.csproj"
+              "E:\\Learn\\.NET core Labs\\Lab3\\ProcessManager\\ProcessManagerBib.csproj": {
+                "projectPath": "E:\\Learn\\.NET core Labs\\Lab3\\ProcessManager\\ProcessManagerBib.csproj"
               }
             }
           }
@@ -72,12 +72,12 @@
         }
       }
     },
-    "E:\\Learn\\.NET core Labs\\Lab3\\ProcessManager\\ProcessManagerLib.csproj": {
+    "E:\\Learn\\.NET core Labs\\Lab3\\ProcessManager\\ProcessManagerBib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Learn\\.NET core Labs\\Lab3\\ProcessManager\\ProcessManagerLib.csproj",
-        "projectName": "ProcessManagerLib",
-        "projectPath": "E:\\Learn\\.NET core Labs\\Lab3\\ProcessManager\\ProcessManagerLib.csproj",
+        "projectUniqueName": "E:\\Learn\\.NET core Labs\\Lab3\\ProcessManager\\ProcessManagerBib.csproj",
+        "projectName": "ProcessManagerBib",
+        "projectPath": "E:\\Learn\\.NET core Labs\\Lab3\\ProcessManager\\ProcessManagerBib.csproj",
         "packagesPath": "C:\\Users\\ivanm\\.nuget\\packages\\",
         "outputPath": "E:\\Learn\\.NET core Labs\\Lab3\\ProcessManager\\obj\\",
         "projectStyle": "PackageReference",

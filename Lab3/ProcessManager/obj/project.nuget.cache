@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1SCx3vueKU2ESh1lg6XARQvwQ0fMFcVV3yWy7jAzc2Z7mduLr6+n4+9mQgPoOcduTLA/E5YEX7yg2+22ztVgRg==",
+  "dgSpecHash": "ql7L3Vbz6z5vdfBS1D2o+32nXMzhKjdCTzW6+mby/KL9OENDI1+Y3cGSO/qPh6sVXaatlokbYIkZ9phj3agrsA==",
   "success": true,
-  "projectFilePath": "E:\\Learn\\.NET core Labs\\Lab3\\ProcessManager\\ProcessManagerLib.csproj",
+  "projectFilePath": "E:\\Learn\\.NET core Labs\\Lab3\\ProcessManager\\ProcessManagerBib.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ivanm\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
     "C:\\Users\\ivanm\\.nuget\\packages\\system.configuration.configurationmanager\\7.0.0\\system.configuration.configurationmanager.7.0.0.nupkg.sha512",
