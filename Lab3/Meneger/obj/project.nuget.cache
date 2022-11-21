@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "5/m1KepRRwnVrfTRyOJhHufSTAVzp36/3GW1snln+roqdwgBxX8iJo6OPLO/KhlDan2LN+dwFq/Z8J9wt88yEw==",
+  "success": true,
+  "projectFilePath": "E:\\Learn\\.NET core Labs\\Lab3\\Meneger\\Menager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ivanm\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\ivanm\\.nuget\\packages\\system.configuration.configurationmanager\\7.0.0\\system.configuration.configurationmanager.7.0.0.nupkg.sha512",
+    "C:\\Users\\ivanm\\.nuget\\packages\\system.diagnostics.performancecounter\\7.0.0\\system.diagnostics.performancecounter.7.0.0.nupkg.sha512",
+    "C:\\Users\\ivanm\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\ivanm\\.nuget\\packages\\system.security.cryptography.protecteddata\\7.0.0\\system.security.cryptography.protecteddata.7.0.0.nupkg.sha512",
+    "C:\\Users\\ivanm\\.nuget\\packages\\system.security.permissions\\7.0.0\\system.security.permissions.7.0.0.nupkg.sha512",
+    "C:\\Users\\ivanm\\.nuget\\packages\\system.windows.extensions\\7.0.0\\system.windows.extensions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

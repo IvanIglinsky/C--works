@@ -1,0 +1,24 @@
+C:\Users\savch\Desktop\Лаб 3\Мои\.Net Core\DotNetLab3\CrypterLib\bin\Debug\net6.0\CrypterLib.deps.json
+C:\Users\savch\Desktop\Лаб 3\Мои\.Net Core\DotNetLab3\CrypterLib\bin\Debug\net6.0\CrypterLib.dll
+C:\Users\savch\Desktop\Лаб 3\Мои\.Net Core\DotNetLab3\CrypterLib\bin\Debug\net6.0\CrypterLib.pdb
+C:\Users\savch\Desktop\Лаб 3\Мои\.Net Core\DotNetLab3\CrypterLib\obj\Debug\net6.0\CrypterLib.csproj.AssemblyReference.cache
+C:\Users\savch\Desktop\Лаб 3\Мои\.Net Core\DotNetLab3\CrypterLib\obj\Debug\net6.0\CrypterLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\savch\Desktop\Лаб 3\Мои\.Net Core\DotNetLab3\CrypterLib\obj\Debug\net6.0\CrypterLib.AssemblyInfoInputs.cache
+C:\Users\savch\Desktop\Лаб 3\Мои\.Net Core\DotNetLab3\CrypterLib\obj\Debug\net6.0\CrypterLib.AssemblyInfo.cs
+C:\Users\savch\Desktop\Лаб 3\Мои\.Net Core\DotNetLab3\CrypterLib\obj\Debug\net6.0\CrypterLib.csproj.CoreCompileInputs.cache
+C:\Users\savch\Desktop\Лаб 3\Мои\.Net Core\DotNetLab3\CrypterLib\obj\Debug\net6.0\CrypterLib.dll
+C:\Users\savch\Desktop\Лаб 3\Мои\.Net Core\DotNetLab3\CrypterLib\obj\Debug\net6.0\refint\CrypterLib.dll
+C:\Users\savch\Desktop\Лаб 3\Мои\.Net Core\DotNetLab3\CrypterLib\obj\Debug\net6.0\CrypterLib.pdb
+C:\Users\savch\Desktop\Лаб 3\Мои\.Net Core\DotNetLab3\CrypterLib\obj\Debug\net6.0\ref\CrypterLib.dll
+C:\Users\ivanm\Desktop\DotNetLab3\CrypterLib\bin\Debug\net6.0\CrypterLib.deps.json
+C:\Users\ivanm\Desktop\DotNetLab3\CrypterLib\bin\Debug\net6.0\CrypterLib.dll
+C:\Users\ivanm\Desktop\DotNetLab3\CrypterLib\bin\Debug\net6.0\CrypterLib.pdb
+C:\Users\ivanm\Desktop\DotNetLab3\CrypterLib\obj\Debug\net6.0\CrypterLib.csproj.AssemblyReference.cache
+C:\Users\ivanm\Desktop\DotNetLab3\CrypterLib\obj\Debug\net6.0\CrypterLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivanm\Desktop\DotNetLab3\CrypterLib\obj\Debug\net6.0\CrypterLib.AssemblyInfoInputs.cache
+C:\Users\ivanm\Desktop\DotNetLab3\CrypterLib\obj\Debug\net6.0\CrypterLib.AssemblyInfo.cs
+C:\Users\ivanm\Desktop\DotNetLab3\CrypterLib\obj\Debug\net6.0\CrypterLib.csproj.CoreCompileInputs.cache
+C:\Users\ivanm\Desktop\DotNetLab3\CrypterLib\obj\Debug\net6.0\CrypterLib.dll
+C:\Users\ivanm\Desktop\DotNetLab3\CrypterLib\obj\Debug\net6.0\refint\CrypterLib.dll
+C:\Users\ivanm\Desktop\DotNetLab3\CrypterLib\obj\Debug\net6.0\CrypterLib.pdb
+C:\Users\ivanm\Desktop\DotNetLab3\CrypterLib\obj\Debug\net6.0\ref\CrypterLib.dll

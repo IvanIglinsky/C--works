@@ -1,0 +1,8 @@
+E:\Learn\.NET core Labs\Lab3\Meneger\obj\Debug\net6.0-windows\MenagerForm.csproj.AssemblyReference.cache
+E:\Learn\.NET core Labs\Lab3\Meneger\obj\Debug\net6.0-windows\Meneger.TaskManeger.resources
+E:\Learn\.NET core Labs\Lab3\Meneger\obj\Debug\net6.0-windows\MenagerForm.Properties.Resources.resources
+E:\Learn\.NET core Labs\Lab3\Meneger\obj\Debug\net6.0-windows\MenagerForm.csproj.GenerateResource.cache
+E:\Learn\.NET core Labs\Lab3\Meneger\obj\Debug\net6.0-windows\MenagerForm.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learn\.NET core Labs\Lab3\Meneger\obj\Debug\net6.0-windows\MenagerForm.AssemblyInfoInputs.cache
+E:\Learn\.NET core Labs\Lab3\Meneger\obj\Debug\net6.0-windows\MenagerForm.AssemblyInfo.cs
+E:\Learn\.NET core Labs\Lab3\Meneger\obj\Debug\net6.0-windows\MenagerForm.csproj.CoreCompileInputs.cache

@@ -1,0 +1,24 @@
+C:\Users\ivanm\Desktop\DotNetLab3\CrypterLib\bin\Debug\net6.0\Crypter.deps.json
+C:\Users\ivanm\Desktop\DotNetLab3\CrypterLib\bin\Debug\net6.0\Crypter.dll
+C:\Users\ivanm\Desktop\DotNetLab3\CrypterLib\bin\Debug\net6.0\Crypter.pdb
+C:\Users\ivanm\Desktop\DotNetLab3\CrypterLib\obj\Debug\net6.0\Crypter.csproj.AssemblyReference.cache
+C:\Users\ivanm\Desktop\DotNetLab3\CrypterLib\obj\Debug\net6.0\Crypter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivanm\Desktop\DotNetLab3\CrypterLib\obj\Debug\net6.0\Crypter.AssemblyInfoInputs.cache
+C:\Users\ivanm\Desktop\DotNetLab3\CrypterLib\obj\Debug\net6.0\Crypter.AssemblyInfo.cs
+C:\Users\ivanm\Desktop\DotNetLab3\CrypterLib\obj\Debug\net6.0\Crypter.csproj.CoreCompileInputs.cache
+C:\Users\ivanm\Desktop\DotNetLab3\CrypterLib\obj\Debug\net6.0\Crypter.dll
+C:\Users\ivanm\Desktop\DotNetLab3\CrypterLib\obj\Debug\net6.0\refint\Crypter.dll
+C:\Users\ivanm\Desktop\DotNetLab3\CrypterLib\obj\Debug\net6.0\Crypter.pdb
+C:\Users\ivanm\Desktop\DotNetLab3\CrypterLib\obj\Debug\net6.0\ref\Crypter.dll
+E:\Learn\.NET core Labs\Lab3\CrypterLib\bin\Debug\net6.0\Crypter.deps.json
+E:\Learn\.NET core Labs\Lab3\CrypterLib\bin\Debug\net6.0\Crypter.dll
+E:\Learn\.NET core Labs\Lab3\CrypterLib\bin\Debug\net6.0\Crypter.pdb
+E:\Learn\.NET core Labs\Lab3\CrypterLib\obj\Debug\net6.0\Crypter.csproj.AssemblyReference.cache
+E:\Learn\.NET core Labs\Lab3\CrypterLib\obj\Debug\net6.0\Crypter.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learn\.NET core Labs\Lab3\CrypterLib\obj\Debug\net6.0\Crypter.AssemblyInfoInputs.cache
+E:\Learn\.NET core Labs\Lab3\CrypterLib\obj\Debug\net6.0\Crypter.AssemblyInfo.cs
+E:\Learn\.NET core Labs\Lab3\CrypterLib\obj\Debug\net6.0\Crypter.csproj.CoreCompileInputs.cache
+E:\Learn\.NET core Labs\Lab3\CrypterLib\obj\Debug\net6.0\Crypter.dll
+E:\Learn\.NET core Labs\Lab3\CrypterLib\obj\Debug\net6.0\refint\Crypter.dll
+E:\Learn\.NET core Labs\Lab3\CrypterLib\obj\Debug\net6.0\Crypter.pdb
+E:\Learn\.NET core Labs\Lab3\CrypterLib\obj\Debug\net6.0\ref\Crypter.dll

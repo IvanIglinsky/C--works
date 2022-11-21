@@ -1,0 +1,12 @@
+E:\Learn\.NET core Labs\Lab3\ProcessManager\bin\Release\net6.0\ProcessManagerLib.deps.json
+E:\Learn\.NET core Labs\Lab3\ProcessManager\bin\Release\net6.0\ProcessManagerLib.dll
+E:\Learn\.NET core Labs\Lab3\ProcessManager\bin\Release\net6.0\ProcessManagerLib.pdb
+E:\Learn\.NET core Labs\Lab3\ProcessManager\obj\Release\net6.0\ProcessManagerLib.csproj.AssemblyReference.cache
+E:\Learn\.NET core Labs\Lab3\ProcessManager\obj\Release\net6.0\ProcessManagerLib.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learn\.NET core Labs\Lab3\ProcessManager\obj\Release\net6.0\ProcessManagerLib.AssemblyInfoInputs.cache
+E:\Learn\.NET core Labs\Lab3\ProcessManager\obj\Release\net6.0\ProcessManagerLib.AssemblyInfo.cs
+E:\Learn\.NET core Labs\Lab3\ProcessManager\obj\Release\net6.0\ProcessManagerLib.csproj.CoreCompileInputs.cache
+E:\Learn\.NET core Labs\Lab3\ProcessManager\obj\Release\net6.0\ProcessManagerLib.dll
+E:\Learn\.NET core Labs\Lab3\ProcessManager\obj\Release\net6.0\refint\ProcessManagerLib.dll
+E:\Learn\.NET core Labs\Lab3\ProcessManager\obj\Release\net6.0\ProcessManagerLib.pdb
+E:\Learn\.NET core Labs\Lab3\ProcessManager\obj\Release\net6.0\ref\ProcessManagerLib.dll

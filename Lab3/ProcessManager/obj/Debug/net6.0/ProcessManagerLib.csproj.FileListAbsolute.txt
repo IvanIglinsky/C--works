@@ -1,0 +1,24 @@
+C:\Users\ivanm\Desktop\DotNetLab3\ProcessManager\bin\Debug\net6.0\ProcessManagerLib.deps.json
+C:\Users\ivanm\Desktop\DotNetLab3\ProcessManager\bin\Debug\net6.0\ProcessManagerLib.dll
+C:\Users\ivanm\Desktop\DotNetLab3\ProcessManager\bin\Debug\net6.0\ProcessManagerLib.pdb
+C:\Users\ivanm\Desktop\DotNetLab3\ProcessManager\obj\Debug\net6.0\ProcessManagerLib.csproj.AssemblyReference.cache
+C:\Users\ivanm\Desktop\DotNetLab3\ProcessManager\obj\Debug\net6.0\ProcessManagerLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivanm\Desktop\DotNetLab3\ProcessManager\obj\Debug\net6.0\ProcessManagerLib.AssemblyInfoInputs.cache
+C:\Users\ivanm\Desktop\DotNetLab3\ProcessManager\obj\Debug\net6.0\ProcessManagerLib.AssemblyInfo.cs
+C:\Users\ivanm\Desktop\DotNetLab3\ProcessManager\obj\Debug\net6.0\ProcessManagerLib.csproj.CoreCompileInputs.cache
+C:\Users\ivanm\Desktop\DotNetLab3\ProcessManager\obj\Debug\net6.0\ProcessManagerLib.dll
+C:\Users\ivanm\Desktop\DotNetLab3\ProcessManager\obj\Debug\net6.0\refint\ProcessManagerLib.dll
+C:\Users\ivanm\Desktop\DotNetLab3\ProcessManager\obj\Debug\net6.0\ProcessManagerLib.pdb
+C:\Users\ivanm\Desktop\DotNetLab3\ProcessManager\obj\Debug\net6.0\ref\ProcessManagerLib.dll
+E:\Learn\.NET core Labs\Lab3\ProcessManager\bin\Debug\net6.0\ProcessManagerLib.deps.json
+E:\Learn\.NET core Labs\Lab3\ProcessManager\bin\Debug\net6.0\ProcessManagerLib.dll
+E:\Learn\.NET core Labs\Lab3\ProcessManager\bin\Debug\net6.0\ProcessManagerLib.pdb
+E:\Learn\.NET core Labs\Lab3\ProcessManager\obj\Debug\net6.0\ProcessManagerLib.csproj.AssemblyReference.cache
+E:\Learn\.NET core Labs\Lab3\ProcessManager\obj\Debug\net6.0\ProcessManagerLib.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learn\.NET core Labs\Lab3\ProcessManager\obj\Debug\net6.0\ProcessManagerLib.AssemblyInfoInputs.cache
+E:\Learn\.NET core Labs\Lab3\ProcessManager\obj\Debug\net6.0\ProcessManagerLib.AssemblyInfo.cs
+E:\Learn\.NET core Labs\Lab3\ProcessManager\obj\Debug\net6.0\ProcessManagerLib.csproj.CoreCompileInputs.cache
+E:\Learn\.NET core Labs\Lab3\ProcessManager\obj\Debug\net6.0\ProcessManagerLib.dll
+E:\Learn\.NET core Labs\Lab3\ProcessManager\obj\Debug\net6.0\refint\ProcessManagerLib.dll
+E:\Learn\.NET core Labs\Lab3\ProcessManager\obj\Debug\net6.0\ProcessManagerLib.pdb
+E:\Learn\.NET core Labs\Lab3\ProcessManager\obj\Debug\net6.0\ref\ProcessManagerLib.dll

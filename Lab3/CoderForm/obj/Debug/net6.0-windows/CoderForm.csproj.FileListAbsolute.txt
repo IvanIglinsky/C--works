@@ -1,0 +1,40 @@
+C:\Users\savch\Desktop\Лаб 3\Мои\.Net Core\DotNetLab3\CoderForm\bin\Debug\net6.0-windows\CoderForm.exe
+C:\Users\savch\Desktop\Лаб 3\Мои\.Net Core\DotNetLab3\CoderForm\bin\Debug\net6.0-windows\CoderForm.deps.json
+C:\Users\savch\Desktop\Лаб 3\Мои\.Net Core\DotNetLab3\CoderForm\bin\Debug\net6.0-windows\CoderForm.runtimeconfig.json
+C:\Users\savch\Desktop\Лаб 3\Мои\.Net Core\DotNetLab3\CoderForm\bin\Debug\net6.0-windows\CoderForm.dll
+C:\Users\savch\Desktop\Лаб 3\Мои\.Net Core\DotNetLab3\CoderForm\bin\Debug\net6.0-windows\CoderForm.pdb
+C:\Users\savch\Desktop\Лаб 3\Мои\.Net Core\DotNetLab3\CoderForm\obj\Debug\net6.0-windows\CoderForm.csproj.AssemblyReference.cache
+C:\Users\savch\Desktop\Лаб 3\Мои\.Net Core\DotNetLab3\CoderForm\obj\Debug\net6.0-windows\CoderForm.Form1.resources
+C:\Users\savch\Desktop\Лаб 3\Мои\.Net Core\DotNetLab3\CoderForm\obj\Debug\net6.0-windows\CoderForm.csproj.GenerateResource.cache
+C:\Users\savch\Desktop\Лаб 3\Мои\.Net Core\DotNetLab3\CoderForm\obj\Debug\net6.0-windows\CoderForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\savch\Desktop\Лаб 3\Мои\.Net Core\DotNetLab3\CoderForm\obj\Debug\net6.0-windows\CoderForm.AssemblyInfoInputs.cache
+C:\Users\savch\Desktop\Лаб 3\Мои\.Net Core\DotNetLab3\CoderForm\obj\Debug\net6.0-windows\CoderForm.AssemblyInfo.cs
+C:\Users\savch\Desktop\Лаб 3\Мои\.Net Core\DotNetLab3\CoderForm\obj\Debug\net6.0-windows\CoderForm.csproj.CoreCompileInputs.cache
+C:\Users\savch\Desktop\Лаб 3\Мои\.Net Core\DotNetLab3\CoderForm\obj\Debug\net6.0-windows\CoderForm.dll
+C:\Users\savch\Desktop\Лаб 3\Мои\.Net Core\DotNetLab3\CoderForm\obj\Debug\net6.0-windows\refint\CoderForm.dll
+C:\Users\savch\Desktop\Лаб 3\Мои\.Net Core\DotNetLab3\CoderForm\obj\Debug\net6.0-windows\CoderForm.pdb
+C:\Users\savch\Desktop\Лаб 3\Мои\.Net Core\DotNetLab3\CoderForm\obj\Debug\net6.0-windows\CoderForm.genruntimeconfig.cache
+C:\Users\savch\Desktop\Лаб 3\Мои\.Net Core\DotNetLab3\CoderForm\obj\Debug\net6.0-windows\ref\CoderForm.dll
+C:\Users\savch\Desktop\Лаб 3\Мои\.Net Core\DotNetLab3\CoderForm\bin\Debug\net6.0-windows\CrypterLib.dll
+C:\Users\savch\Desktop\Лаб 3\Мои\.Net Core\DotNetLab3\CoderForm\bin\Debug\net6.0-windows\CrypterLib.pdb
+C:\Users\savch\Desktop\Лаб 3\Мои\.Net Core\DotNetLab3\CoderForm\obj\Debug\net6.0-windows\CoderForm.csproj.CopyComplete
+C:\Users\ivanm\Desktop\DotNetLab3\CoderForm\bin\Debug\net6.0-windows\CoderForm.exe
+C:\Users\ivanm\Desktop\DotNetLab3\CoderForm\bin\Debug\net6.0-windows\CoderForm.deps.json
+C:\Users\ivanm\Desktop\DotNetLab3\CoderForm\bin\Debug\net6.0-windows\CoderForm.runtimeconfig.json
+C:\Users\ivanm\Desktop\DotNetLab3\CoderForm\bin\Debug\net6.0-windows\CoderForm.dll
+C:\Users\ivanm\Desktop\DotNetLab3\CoderForm\bin\Debug\net6.0-windows\CoderForm.pdb
+C:\Users\ivanm\Desktop\DotNetLab3\CoderForm\bin\Debug\net6.0-windows\CrypterLib.dll
+C:\Users\ivanm\Desktop\DotNetLab3\CoderForm\bin\Debug\net6.0-windows\CrypterLib.pdb
+C:\Users\ivanm\Desktop\DotNetLab3\CoderForm\obj\Debug\net6.0-windows\CoderForm.csproj.AssemblyReference.cache
+C:\Users\ivanm\Desktop\DotNetLab3\CoderForm\obj\Debug\net6.0-windows\CoderForm.Form1.resources
+C:\Users\ivanm\Desktop\DotNetLab3\CoderForm\obj\Debug\net6.0-windows\CoderForm.csproj.GenerateResource.cache
+C:\Users\ivanm\Desktop\DotNetLab3\CoderForm\obj\Debug\net6.0-windows\CoderForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivanm\Desktop\DotNetLab3\CoderForm\obj\Debug\net6.0-windows\CoderForm.AssemblyInfoInputs.cache
+C:\Users\ivanm\Desktop\DotNetLab3\CoderForm\obj\Debug\net6.0-windows\CoderForm.AssemblyInfo.cs
+C:\Users\ivanm\Desktop\DotNetLab3\CoderForm\obj\Debug\net6.0-windows\CoderForm.csproj.CoreCompileInputs.cache
+C:\Users\ivanm\Desktop\DotNetLab3\CoderForm\obj\Debug\net6.0-windows\CoderForm.csproj.CopyComplete
+C:\Users\ivanm\Desktop\DotNetLab3\CoderForm\obj\Debug\net6.0-windows\CoderForm.dll
+C:\Users\ivanm\Desktop\DotNetLab3\CoderForm\obj\Debug\net6.0-windows\refint\CoderForm.dll
+C:\Users\ivanm\Desktop\DotNetLab3\CoderForm\obj\Debug\net6.0-windows\CoderForm.pdb
+C:\Users\ivanm\Desktop\DotNetLab3\CoderForm\obj\Debug\net6.0-windows\CoderForm.genruntimeconfig.cache
+C:\Users\ivanm\Desktop\DotNetLab3\CoderForm\obj\Debug\net6.0-windows\ref\CoderForm.dll

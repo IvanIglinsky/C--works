@@ -1,0 +1,42 @@
+C:\Users\ivanm\Desktop\DotNetLab3\CoderForm\bin\Debug\net6.0-windows\Coder.exe
+C:\Users\ivanm\Desktop\DotNetLab3\CoderForm\bin\Debug\net6.0-windows\Coder.deps.json
+C:\Users\ivanm\Desktop\DotNetLab3\CoderForm\bin\Debug\net6.0-windows\Coder.runtimeconfig.json
+C:\Users\ivanm\Desktop\DotNetLab3\CoderForm\bin\Debug\net6.0-windows\Coder.dll
+C:\Users\ivanm\Desktop\DotNetLab3\CoderForm\bin\Debug\net6.0-windows\Coder.pdb
+C:\Users\ivanm\Desktop\DotNetLab3\CoderForm\bin\Debug\net6.0-windows\Crypter.dll
+C:\Users\ivanm\Desktop\DotNetLab3\CoderForm\bin\Debug\net6.0-windows\Crypter.pdb
+C:\Users\ivanm\Desktop\DotNetLab3\CoderForm\obj\Debug\net6.0-windows\Coder.csproj.AssemblyReference.cache
+C:\Users\ivanm\Desktop\DotNetLab3\CoderForm\obj\Debug\net6.0-windows\CoderForm.Form1.resources
+C:\Users\ivanm\Desktop\DotNetLab3\CoderForm\obj\Debug\net6.0-windows\Coder.Properties.Resources.resources
+C:\Users\ivanm\Desktop\DotNetLab3\CoderForm\obj\Debug\net6.0-windows\Coder.csproj.GenerateResource.cache
+C:\Users\ivanm\Desktop\DotNetLab3\CoderForm\obj\Debug\net6.0-windows\Coder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivanm\Desktop\DotNetLab3\CoderForm\obj\Debug\net6.0-windows\Coder.AssemblyInfoInputs.cache
+C:\Users\ivanm\Desktop\DotNetLab3\CoderForm\obj\Debug\net6.0-windows\Coder.AssemblyInfo.cs
+C:\Users\ivanm\Desktop\DotNetLab3\CoderForm\obj\Debug\net6.0-windows\Coder.csproj.CoreCompileInputs.cache
+C:\Users\ivanm\Desktop\DotNetLab3\CoderForm\obj\Debug\net6.0-windows\Coder.csproj.CopyComplete
+C:\Users\ivanm\Desktop\DotNetLab3\CoderForm\obj\Debug\net6.0-windows\Coder.dll
+C:\Users\ivanm\Desktop\DotNetLab3\CoderForm\obj\Debug\net6.0-windows\refint\Coder.dll
+C:\Users\ivanm\Desktop\DotNetLab3\CoderForm\obj\Debug\net6.0-windows\Coder.pdb
+C:\Users\ivanm\Desktop\DotNetLab3\CoderForm\obj\Debug\net6.0-windows\Coder.genruntimeconfig.cache
+C:\Users\ivanm\Desktop\DotNetLab3\CoderForm\obj\Debug\net6.0-windows\ref\Coder.dll
+E:\Learn\.NET core Labs\Lab3\CoderForm\bin\Debug\net6.0-windows\Coder.exe
+E:\Learn\.NET core Labs\Lab3\CoderForm\bin\Debug\net6.0-windows\Coder.deps.json
+E:\Learn\.NET core Labs\Lab3\CoderForm\bin\Debug\net6.0-windows\Coder.runtimeconfig.json
+E:\Learn\.NET core Labs\Lab3\CoderForm\bin\Debug\net6.0-windows\Coder.dll
+E:\Learn\.NET core Labs\Lab3\CoderForm\bin\Debug\net6.0-windows\Coder.pdb
+E:\Learn\.NET core Labs\Lab3\CoderForm\bin\Debug\net6.0-windows\Crypter.dll
+E:\Learn\.NET core Labs\Lab3\CoderForm\bin\Debug\net6.0-windows\Crypter.pdb
+E:\Learn\.NET core Labs\Lab3\CoderForm\obj\Debug\net6.0-windows\Coder.csproj.AssemblyReference.cache
+E:\Learn\.NET core Labs\Lab3\CoderForm\obj\Debug\net6.0-windows\CoderForm.Form1.resources
+E:\Learn\.NET core Labs\Lab3\CoderForm\obj\Debug\net6.0-windows\Coder.Properties.Resources.resources
+E:\Learn\.NET core Labs\Lab3\CoderForm\obj\Debug\net6.0-windows\Coder.csproj.GenerateResource.cache
+E:\Learn\.NET core Labs\Lab3\CoderForm\obj\Debug\net6.0-windows\Coder.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learn\.NET core Labs\Lab3\CoderForm\obj\Debug\net6.0-windows\Coder.AssemblyInfoInputs.cache
+E:\Learn\.NET core Labs\Lab3\CoderForm\obj\Debug\net6.0-windows\Coder.AssemblyInfo.cs
+E:\Learn\.NET core Labs\Lab3\CoderForm\obj\Debug\net6.0-windows\Coder.csproj.CoreCompileInputs.cache
+E:\Learn\.NET core Labs\Lab3\CoderForm\obj\Debug\net6.0-windows\Coder.csproj.CopyComplete
+E:\Learn\.NET core Labs\Lab3\CoderForm\obj\Debug\net6.0-windows\Coder.dll
+E:\Learn\.NET core Labs\Lab3\CoderForm\obj\Debug\net6.0-windows\refint\Coder.dll
+E:\Learn\.NET core Labs\Lab3\CoderForm\obj\Debug\net6.0-windows\Coder.pdb
+E:\Learn\.NET core Labs\Lab3\CoderForm\obj\Debug\net6.0-windows\Coder.genruntimeconfig.cache
+E:\Learn\.NET core Labs\Lab3\CoderForm\obj\Debug\net6.0-windows\ref\Coder.dll

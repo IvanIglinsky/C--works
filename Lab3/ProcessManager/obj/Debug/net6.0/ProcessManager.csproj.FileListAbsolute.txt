@@ -1,0 +1,12 @@
+C:\Users\savch\Desktop\Лаб 3\Мои\.Net Core\DotNetLab3\ProcessManager\bin\Debug\net6.0\ProcessManager.deps.json
+C:\Users\savch\Desktop\Лаб 3\Мои\.Net Core\DotNetLab3\ProcessManager\bin\Debug\net6.0\ProcessManager.dll
+C:\Users\savch\Desktop\Лаб 3\Мои\.Net Core\DotNetLab3\ProcessManager\bin\Debug\net6.0\ProcessManager.pdb
+C:\Users\savch\Desktop\Лаб 3\Мои\.Net Core\DotNetLab3\ProcessManager\obj\Debug\net6.0\ProcessManager.csproj.AssemblyReference.cache
+C:\Users\savch\Desktop\Лаб 3\Мои\.Net Core\DotNetLab3\ProcessManager\obj\Debug\net6.0\ProcessManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\savch\Desktop\Лаб 3\Мои\.Net Core\DotNetLab3\ProcessManager\obj\Debug\net6.0\ProcessManager.AssemblyInfoInputs.cache
+C:\Users\savch\Desktop\Лаб 3\Мои\.Net Core\DotNetLab3\ProcessManager\obj\Debug\net6.0\ProcessManager.AssemblyInfo.cs
+C:\Users\savch\Desktop\Лаб 3\Мои\.Net Core\DotNetLab3\ProcessManager\obj\Debug\net6.0\ProcessManager.csproj.CoreCompileInputs.cache
+C:\Users\savch\Desktop\Лаб 3\Мои\.Net Core\DotNetLab3\ProcessManager\obj\Debug\net6.0\ProcessManager.dll
+C:\Users\savch\Desktop\Лаб 3\Мои\.Net Core\DotNetLab3\ProcessManager\obj\Debug\net6.0\refint\ProcessManager.dll
+C:\Users\savch\Desktop\Лаб 3\Мои\.Net Core\DotNetLab3\ProcessManager\obj\Debug\net6.0\ProcessManager.pdb
+C:\Users\savch\Desktop\Лаб 3\Мои\.Net Core\DotNetLab3\ProcessManager\obj\Debug\net6.0\ref\ProcessManager.dll

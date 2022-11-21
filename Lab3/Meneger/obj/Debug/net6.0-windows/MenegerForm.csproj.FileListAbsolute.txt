@@ -1,0 +1,66 @@
+E:\DotNetLab3\Meneger\bin\Debug\net6.0-windows\MenegerForm.exe
+E:\DotNetLab3\Meneger\bin\Debug\net6.0-windows\MenegerForm.deps.json
+E:\DotNetLab3\Meneger\bin\Debug\net6.0-windows\MenegerForm.runtimeconfig.json
+E:\DotNetLab3\Meneger\bin\Debug\net6.0-windows\MenegerForm.dll
+E:\DotNetLab3\Meneger\bin\Debug\net6.0-windows\MenegerForm.pdb
+E:\DotNetLab3\Meneger\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+E:\DotNetLab3\Meneger\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+E:\DotNetLab3\Meneger\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+E:\DotNetLab3\Meneger\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+E:\DotNetLab3\Meneger\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+E:\DotNetLab3\Meneger\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+E:\DotNetLab3\Meneger\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+E:\DotNetLab3\Meneger\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\DotNetLab3\Meneger\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+E:\DotNetLab3\Meneger\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\DotNetLab3\Meneger\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\DotNetLab3\Meneger\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\DotNetLab3\Meneger\bin\Debug\net6.0-windows\ProcessManagerLib.dll
+E:\DotNetLab3\Meneger\bin\Debug\net6.0-windows\ProcessManagerLib.pdb
+E:\DotNetLab3\Meneger\obj\Debug\net6.0-windows\MenegerForm.csproj.AssemblyReference.cache
+E:\DotNetLab3\Meneger\obj\Debug\net6.0-windows\Meneger.Form1.resources
+E:\DotNetLab3\Meneger\obj\Debug\net6.0-windows\MenegerForm.Properties.Resources.resources
+E:\DotNetLab3\Meneger\obj\Debug\net6.0-windows\MenegerForm.csproj.GenerateResource.cache
+E:\DotNetLab3\Meneger\obj\Debug\net6.0-windows\MenegerForm.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNetLab3\Meneger\obj\Debug\net6.0-windows\MenegerForm.AssemblyInfoInputs.cache
+E:\DotNetLab3\Meneger\obj\Debug\net6.0-windows\MenegerForm.AssemblyInfo.cs
+E:\DotNetLab3\Meneger\obj\Debug\net6.0-windows\MenegerForm.csproj.CoreCompileInputs.cache
+E:\DotNetLab3\Meneger\obj\Debug\net6.0-windows\MenegerForm.csproj.CopyComplete
+E:\DotNetLab3\Meneger\obj\Debug\net6.0-windows\MenegerForm.dll
+E:\DotNetLab3\Meneger\obj\Debug\net6.0-windows\refint\MenegerForm.dll
+E:\DotNetLab3\Meneger\obj\Debug\net6.0-windows\MenegerForm.pdb
+E:\DotNetLab3\Meneger\obj\Debug\net6.0-windows\MenegerForm.genruntimeconfig.cache
+E:\DotNetLab3\Meneger\obj\Debug\net6.0-windows\ref\MenegerForm.dll
+E:\Learn\.NET core Labs\Lab3\Meneger\obj\Debug\net6.0-windows\MenegerForm.csproj.AssemblyReference.cache
+E:\Learn\.NET core Labs\Lab3\Meneger\obj\Debug\net6.0-windows\MenegerForm.csproj.GenerateResource.cache
+E:\Learn\.NET core Labs\Lab3\Meneger\obj\Debug\net6.0-windows\MenegerForm.dll
+E:\Learn\.NET core Labs\Lab3\Meneger\obj\Debug\net6.0-windows\refint\MenegerForm.dll
+E:\Learn\.NET core Labs\Lab3\Meneger\obj\Debug\net6.0-windows\MenegerForm.pdb
+E:\Learn\.NET core Labs\Lab3\Meneger\obj\Debug\net6.0-windows\MenegerForm.Properties.Resources.resources
+E:\Learn\.NET core Labs\Lab3\Meneger\obj\Debug\net6.0-windows\MenegerForm.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learn\.NET core Labs\Lab3\Meneger\obj\Debug\net6.0-windows\MenegerForm.AssemblyInfoInputs.cache
+E:\Learn\.NET core Labs\Lab3\Meneger\obj\Debug\net6.0-windows\MenegerForm.AssemblyInfo.cs
+E:\Learn\.NET core Labs\Lab3\Meneger\obj\Debug\net6.0-windows\MenegerForm.csproj.CoreCompileInputs.cache
+E:\Learn\.NET core Labs\Lab3\Meneger\bin\Debug\net6.0-windows\MenegerForm.exe
+E:\Learn\.NET core Labs\Lab3\Meneger\bin\Debug\net6.0-windows\MenegerForm.deps.json
+E:\Learn\.NET core Labs\Lab3\Meneger\bin\Debug\net6.0-windows\MenegerForm.runtimeconfig.json
+E:\Learn\.NET core Labs\Lab3\Meneger\bin\Debug\net6.0-windows\MenegerForm.dll
+E:\Learn\.NET core Labs\Lab3\Meneger\bin\Debug\net6.0-windows\MenegerForm.pdb
+E:\Learn\.NET core Labs\Lab3\Meneger\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+E:\Learn\.NET core Labs\Lab3\Meneger\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+E:\Learn\.NET core Labs\Lab3\Meneger\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+E:\Learn\.NET core Labs\Lab3\Meneger\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+E:\Learn\.NET core Labs\Lab3\Meneger\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+E:\Learn\.NET core Labs\Lab3\Meneger\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+E:\Learn\.NET core Labs\Lab3\Meneger\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+E:\Learn\.NET core Labs\Lab3\Meneger\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Learn\.NET core Labs\Lab3\Meneger\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+E:\Learn\.NET core Labs\Lab3\Meneger\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Learn\.NET core Labs\Lab3\Meneger\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Learn\.NET core Labs\Lab3\Meneger\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Learn\.NET core Labs\Lab3\Meneger\bin\Debug\net6.0-windows\ProcessManagerLib.dll
+E:\Learn\.NET core Labs\Lab3\Meneger\bin\Debug\net6.0-windows\ProcessManagerLib.pdb
+E:\Learn\.NET core Labs\Lab3\Meneger\obj\Debug\net6.0-windows\Meneger.TaskManeger.resources
+E:\Learn\.NET core Labs\Lab3\Meneger\obj\Debug\net6.0-windows\MenegerForm.csproj.CopyComplete
+E:\Learn\.NET core Labs\Lab3\Meneger\obj\Debug\net6.0-windows\MenegerForm.genruntimeconfig.cache
+E:\Learn\.NET core Labs\Lab3\Meneger\obj\Debug\net6.0-windows\ref\MenegerForm.dll
